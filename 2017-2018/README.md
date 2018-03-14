@@ -8,3 +8,11 @@
 
 ## setup
 copy .env.example to .env and add azure access keys (https://azure.microsoft.com/en-us/try/cognitive-services/)
+```sh
+npm install microsoft-computer-vision --save
+```
+
+## usage
+```sh
+node index.js
+```
